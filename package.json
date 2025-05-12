@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "typesense-instantsearch-adapter": "^2.9.0"
+  }
+}
