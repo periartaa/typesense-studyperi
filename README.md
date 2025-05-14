@@ -41,11 +41,13 @@ cara menjalankan typesense (Pakai WSL)
 Typesense adalah search engine open-source yang dirancang untuk memberikan pengalaman pencarian yang cepat, relevan, dan mudah diintegrasikan ke dalam aplikasi. Dalam implementasinya, Typesense memberikan sejumlah keuntungan terutama untuk pengembangan aplikasi yang membutuhkan pencarian teks yang efisien.
 
 Keuntungan : 
+   ``` bash
    1. Typesense memiliki dokumentasi yang jelas dan API yang sederhana.
    2. Mendukung deployment cepat di berbagai lingkungan seperti Docker, bare-metal, atau cloud.
    3. Tersedia client libraries untuk berbagai bahasa pemrograman (JavaScript, Python, dll).
    4. Cocok untuk digunakan pada e-commerce, katalog produk, aplikasi pencarian dokumen, dan lainnya.
    5. Tersedia Gratis dan open-source di bawah lisensi Apache 2.0. dan Versi cloud tersedia dengan biaya berlangganan untuk manajemen dan skalabilitas 
+   ```
 
 
  
