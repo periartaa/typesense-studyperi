@@ -18,14 +18,17 @@ Situs resmi [Typesense](https://typesense.org/ "Typesense").
 cara menjalankan typesense (Pada WSL)
 
 1. Download Typesense Server Jalankan perintah berikut di folder mana saja:
-
-``` bash 
-wget https://dl.typesense.org/releases/0.25.2/typesense-server-0.25.2-linux-amd64.tar.gz
-```
-```bash
-tar -xzf typesense-server-0.25.2-linux-amd64.tar.gz
-```
+   ``` bash 
+   wget https://dl.typesense.org/releases/0.25.2/typesense-server-0.25.2-linux-amd64.tar.gz
+   ```
+   ```bash
+   tar -xzf typesense-server-0.25.2-linux-amd64.tar.gz
+   ```
 2. Jalankan Typesense Server
-``` bash
-TYPESENSE_DATA_DIR=/var/lib/typesense TYPESENSE_API_KEY=AS3das2awQ2 ./typesense-server
-```
+   ``` bash
+   TYPESENSE_DATA_DIR=/var/lib/typesense TYPESENSE_API_KEY=AS3das2awQ2 ./typesense-server
+   ```
+3. Cek apakah server sudah berjalan dengan benar
+   ``` bash
+   curl http://localhost:8108/health
+   ```
