@@ -32,3 +32,8 @@ cara menjalankan typesense (Pada WSL)
    ``` bash
    curl http://localhost:8108/health
    ```
+   Pastika muncul
+   ``` bash
+   pastikan
+   ```
+   
