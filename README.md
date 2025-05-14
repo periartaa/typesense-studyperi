@@ -3,8 +3,19 @@ Typesense adalah mesin pencari sumber terbuka yang toleran terhadap kesalahan ke
 
 Situs resmi [Typesense](https://typesense.org/ "Typesense").
 
+## Cara Donlowad Respository
+1. clone respository projek
+   ``` bash
+   git clone https://github.com/periartaa/typesense-studyperi.git
+   ```
+2. pastikan server Typesense run lalu running projek (pada WSL)
+   ``` bash
+   npm start
+   ```
+
+
 ## Pastikan typesense Run sebelum dijalankan
-cara menjalankan typesense
+cara menjalankan typesense (Pada WSL)
 
 1. Download Typesense Server Jalankan perintah berikut di folder mana saja:
 
