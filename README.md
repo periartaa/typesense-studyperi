@@ -33,6 +33,6 @@ cara menjalankan typesense (Pakai WSL)
    ```
    Pastika muncul
    ``` bash
-   pastikan
+   {"ok":true}
    ```
    
